@@ -1,0 +1,44 @@
+CRITICAL - 2022-02-21 07:08:01 --> Undefined variable $student_info
+#0 C:\xampp\htdocs\classroomMS\app\Views\classroom\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\classroomMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\classroomMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\classroomMS\system\Common.php(1089): CodeIgniter\View\View->render('classroom/index', Array, true)
+#4 C:\xampp\htdocs\classroomMS\app\Controllers\Classroom.php(11): view('classroom/index')
+#5 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\Classroom->index()
+#6 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+#7 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-21 07:08:03 --> Undefined variable $student_info
+#0 C:\xampp\htdocs\classroomMS\app\Views\classroom\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\classroomMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\classroomMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\classroomMS\system\Common.php(1089): CodeIgniter\View\View->render('classroom/index', Array, true)
+#4 C:\xampp\htdocs\classroomMS\app\Controllers\Classroom.php(11): view('classroom/index')
+#5 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\Classroom->index()
+#6 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+#7 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-21 23:01:07 --> Undefined variable $student_info
+#0 C:\xampp\htdocs\classroomMS\app\Views\classroom\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\classroomMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\classroomMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\classroomMS\system\Common.php(1089): CodeIgniter\View\View->render('classroom/index', Array, true)
+#4 C:\xampp\htdocs\classroomMS\app\Controllers\Classroom.php(19): view('classroom/index')
+#5 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\Classroom->studentIndex()
+#6 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+#7 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-21 23:01:47 --> Undefined variable $student_info
+#0 C:\xampp\htdocs\classroomMS\app\Views\classroom\index.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\classroomMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\classroomMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\classroomMS\system\Common.php(1089): CodeIgniter\View\View->render('classroom/index', Array, true)
+#4 C:\xampp\htdocs\classroomMS\app\Controllers\Classroom.php(19): view('classroom/index')
+#5 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\Classroom->studentIndex()
+#6 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Classroom))
+#7 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
