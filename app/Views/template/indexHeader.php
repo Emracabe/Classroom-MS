@@ -26,7 +26,7 @@
 
         @media screen and (max-width: 768px) {
             #student {
-                transform: translate(0%, 0%);
+                transform: translate(0%, 0%) scale(.8);
             }
         }
     </style>

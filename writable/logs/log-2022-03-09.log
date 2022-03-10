@@ -105,3 +105,52 @@ ERROR - 2022-03-09 03:24:50 --> Illegal parameter data types varchar and row for
 ERROR - 2022-03-09 03:26:53 --> Illegal parameter data types varchar and row for operation '='
 ERROR - 2022-03-09 03:30:41 --> Illegal parameter data types varchar and row for operation '='
 ERROR - 2022-03-09 03:34:44 --> Illegal parameter data types varchar and row for operation '='
+CRITICAL - 2022-03-09 07:25:13 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 07:33:20 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 07:33:43 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 07:33:51 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 22:46:05 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 22:46:05 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-09 22:46:51 --> Undefined variable $respData
+#0 C:\xampp\htdocs\classroomMS\app\Controllers\API.php(444): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 444)
+#1 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(825): App\Controllers\API->student()
+#2 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API))
+#3 C:\xampp\htdocs\classroomMS\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\classroomMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
